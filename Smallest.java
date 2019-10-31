@@ -17,6 +17,7 @@ public class Smallest {
     var d = 30;
     var e = 20;
     var f = 20;
+    var ce = 25;
 
     }
 }

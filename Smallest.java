@@ -24,6 +24,7 @@ public class Smallest {
 
     addinter();
     var eeeee = 1;
+    var eeee = 1;
 
     }
 }
